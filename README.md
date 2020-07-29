@@ -1,2 +1,2 @@
 # dmcpy
-Diffusion Monte Carlo Python Module
+Diffusion Monte Carlo Python Package
